@@ -1,16 +1,15 @@
 ### Hi there 👋
+Hello there, I'm Thomas!
 
-<!--
-**mercury501/mercury501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy programming and managing little servers, always on the lookout for the next fun thing to learn!
 
-Here are some ideas to get you started:
+Some things i played with, in order of confidence:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 {"languages" : ["python", "java", "c", "bash", "shell", "italian", "english", "asm"]}.
+
+⚡ {"random skills" : ["photoshop", "office", "basic video editing",  ]}
+
+🔭 {"interested in / learning" : ["cybersec", "machine learning", "cloud", "linux",]}
+
+
+
