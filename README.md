@@ -5,7 +5,7 @@ I enjoy programming and managing little servers, always on the lookout for the n
 
 Some things i played with, in order of confidence:
 
-🌱 {"languages" : ["python", "java", "c", "bash", "shell", "italian", "english", "asm"]}.
+🌱 {"languages" : ["python", "java", "c", "shell", "italian", "english", "asm"]}.
 
 ⚡ {"random skills" : ["photoshop", "office", "basic video editing"]}
 
