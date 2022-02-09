@@ -7,9 +7,9 @@ Some things i played with, in order of confidence:
 
 🌱 {"languages" : ["python", "java", "c", "bash", "shell", "italian", "english", "asm"]}.
 
-⚡ {"random skills" : ["photoshop", "office", "basic video editing",  ]}
+⚡ {"random skills" : ["photoshop", "office", "basic video editing"]}
 
-🔭 {"interested in / learning" : ["cybersec", "machine learning", "cloud", "linux",]}
+🔭 {"interested in / learning" : ["cybersec", "machine learning", "cloud", "linux"]}
 
 
 
