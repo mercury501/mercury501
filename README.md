@@ -9,7 +9,6 @@ Some things i played with, in order of confidence:
 
 ⚡ {"random skills" : ["photoshop", "office", "basic video editing"]}
 
-🔭 {"interested in / learning" : ["reverse engineering", "Unreal C++", "cybersec", "machine learning", "cloud", "linux"]}
 
 
 
