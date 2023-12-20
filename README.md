@@ -1,15 +1,9 @@
 ### Hi there 👋
 Hello there, I'm Thomas!
 
-I enjoy programming and managing little servers, always on the lookout for the next fun thing to learn!
+I enjoy picking apart games and fixing them, sometimes.
 
-Some things i played with, in order of confidence:
-
-🌱 {"languages" : ["java", "C++", "c", "python", "shell", "rust", "italian", "english", "asm"]}.
-
-⚡ {"random skills" : ["photoshop", "office", "basic video editing"]}
-
-
+[Portfolio](https://mercury501.github.io/portfolio/)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mercury501&show_icons=true&theme=gotham" alt="mercury501" width="400" margin="0px"/>
